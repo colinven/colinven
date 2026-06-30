@@ -1,4 +1,4 @@
-# Hi there, I'm Colin 👋
+# Hey, I'm Colin
 
 I'm a CS student and aspiring Software Engineer with an insatiable curiosity. I deeply enjoy studying software system internals and continuously learning new things.
 
